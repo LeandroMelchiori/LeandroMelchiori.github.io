@@ -65,17 +65,19 @@ Implementa autenticación JWT, permisos, filtros, paginación, imágenes, migrac
 
 Aplicación local-first para organizar tareas, eventos, recurrencias, agenda y tableros de trabajo.
 
-Funciona offline, utiliza IndexedDB, permite exportar información y cuenta con pruebas unitarias y end-to-end.
+Funciona offline, utiliza IndexedDB, permite exportar información y cuenta con pruebas unitarias, end-to-end y auditorías automatizadas de accesibilidad.
 
 **Stack:** React · TypeScript · Vite · IndexedDB · PWA · Vitest · Playwright · GitHub Actions
+
+[Ver aplicación](https://taskflow.sachadev.me)
 
 ---
 
 ### 🏟️ [Club Deportivo](https://github.com/UnknowTeam-TSDS/app_ClubDeportivo)
 
-Aplicación Android de gestión para clubes deportivos.
+Aplicación Android de gestión para clubes deportivos desarrollada en equipo.
 
-Permite administrar clientes, socios, actividades, horarios, profesores, pagos, vencimientos y reportes mensuales.
+Permite administrar clientes, socios, actividades, horarios, profesores, pagos, vencimientos y reportes mensuales mediante almacenamiento local.
 
 **Stack:** Kotlin · Android · SQLite · Material Design
 
@@ -83,9 +85,11 @@ Permite administrar clientes, socios, actividades, horarios, profesores, pagos, 
 
 ### 📚 [LiteraLura](https://github.com/LeandroMelchiori/literalura)
 
-Aplicación de consola para consultar una API de libros, registrar autores y obras, y realizar búsquedas sobre una base de datos relacional.
+Sistema full stack de gestión bibliotecaria que evolucionó desde el desafío de consola original.
 
-**Stack:** Java · Spring Boot · PostgreSQL · JPA · API REST
+Combina una API Spring Boot y un frontend React para administrar catálogo, ejemplares, socios, préstamos, reservas y multas, con autenticación JWT y experiencias diferenciadas para administradores, bibliotecarios y socios.
+
+**Stack:** Java · Spring Boot · Spring Security · React · Vite · PostgreSQL · Flyway · Docker
 
 ---
 
