@@ -15,7 +15,7 @@ Construyo productos digitales que transforman procesos manuales y problemas conc
 
 ## Sobre mí
 
-Soy desarrollador de software y capacitador en tecnología de Rosario, Santa Fe, Argentina.
+Soy desarrollador de software y capacitador en tecnología.
 
 Trabajo principalmente con **Java y Spring Boot** para APIs y sistemas backend; **React, Next.js y TypeScript** para aplicaciones web; y **Python** para automatización, procesamiento documental e inteligencia artificial aplicada.
 
